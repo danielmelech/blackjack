@@ -1,0 +1,12 @@
+
+.card_list {
+  position: relative;
+  box-sizing: content-box;
+  background-color: rgb(209, 203, 203);
+  margin-top: 190px;
+  display: flex;
+  justify-content: center;
+  border: solid;
+}
+
+
