@@ -1,0 +1,122 @@
+body {
+    background-image: url('assests/bj_background.png');
+    background-size: cover; 
+    background-position: center; 
+    }
+
+
+.flex_buttons{
+    display: flex;
+    justify-content: center;
+    height: 10%;
+
+}
+.button1 {
+    width: 12%;  
+    padding: 2% 1.5%;
+    margin: 5%;
+    font-size: 300%;
+    background-color: rgb(12, 5, 5);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 15%;
+    text-align: center;
+    ;
+    }
+    .button2 {
+        width: 13%;
+        padding: 1.5% 1%;
+        margin: 5%;
+        font-size: 275%;
+        background-color: rgb(12, 5, 5);
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 15%;
+        text-align: center;
+        }
+    .button3{
+        width: 13%;
+        padding: 2% 1.5%;
+        margin: 5%;
+        font-size: 250%;
+        background-color: rgb(12, 5, 5);
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 15%;
+        text-align: center;
+        ;
+        }
+
+        .button4{
+            position: relative;
+            width: 13%;
+            left: 30%;
+            padding: 1.5% 1%;
+            margin: 5%;
+            font-size: 275%;
+            background-color: rgb(12, 5, 5);
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 15%;
+            text-align: center;
+
+            }
+
+    .count_box {
+        width: 3%;
+        height:0.5%;
+        padding: 1.5% 1.5%;
+        background-color: #f1f1f1;
+        border: 1px solid #ccc;
+        margin: 1%;
+        border-radius: 10%;
+        font-size: 150%;
+        text-align: center;
+        border: solid;
+        }
+    .messege {
+        background-color: #d1d0d0;
+        position: relative;
+        top: 10%;
+        left: 25%;
+        width: 20%;
+        border: 15px solid rgb(8, 10, 8);
+        color: rgb(14, 10, 10);
+        padding: 2% 2%;
+        margin: 2%;
+        font-size: 300%;
+        text-align:center;
+        }
+    .flex-middle{
+        display:flex;
+        justify-content:flex-start;
+    }
+    .inputamount{
+        position: relative;
+        width: 20%;
+        left: 32%;
+        font-size: 300%;
+        background-color: #d1d0d0;
+        padding: 2% 2%;
+        border-radius: 15%;
+        border: solid;
+
+    }
+    .wallet {
+        display: flex;
+        width: 3%;
+        height:0.5%;
+        padding: 1.5% 1.5%;
+        background-color: #f1f1f1;
+        border: 1px solid #ccc;
+        margin: 1%;
+        border-radius: 10%;
+        font-size: 150%;
+        text-align: center;
+        border: solid;
+        justify-content:flex-start;
+        }
